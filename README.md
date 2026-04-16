@@ -2,7 +2,6 @@
 
 ## 👥 Integrantes
 - Luan Mauricio  
-- (Adicionar demais membros, se houver)
 
 ---
 
